@@ -1,81 +1,85 @@
 # Outbound Email Sequence: Emerging Single Family Office (ICP A)
 
-**Target Audience:** Founder/Principal who recently set up a formal family office (1-5 team members).
-**Core Pain Point:** Doing manual reconciliation on spreadsheets; wasting personal time; needing professional reports for family/trustees.
-**Tone:** Direct, empathetic to their time constraints, peer-to-peer, focusing on simplicity and reclaiming weekends.
+---
+
+### Email 1 — Day 0
+
+**Subject:** A real platform felt like overkill to me too
+**Alt:** It grows with you — start at one custodian, not 200 clients
+**Why:** Disarm the "overkill" objection.
+
+Hi [First Name],
+
+Quick, honest note — founder to founder.
+
+When you set up your family office, I'd bet someone suggested a "real" portfolio platform and your gut said: overkill. My portfolio's simple.
+
+That instinct is right about most platforms. They're built for 200-client institutions. Canopy isn't — it starts simple with one or two custodians and only grows when you do.
+
+Most founders are up and running in [time-to-first-report — to verify], no IT project.
+
+Worth a 20-minute look at your actual setup? [demo length / offer — to verify]
+
+[Sender Name / Role / Company — to verify]
 
 ---
 
-### Email 1: Day 0
-**Subject:** Escaping the weekend spreadsheet reconciliation
-**Rationale:** Direct call-out to the exact pain point (founder/spouse doing manual data entry) and tying it to the recent milestone of formalizing the FO.
+### Email 2 — Day 3
 
-Hi {{First Name}},
+**Subject:** Who's doing your reconciliation right now?
+**Alt:** Be honest — is it you matching statements by hand?
+**Why:** Hit personal pain and clear the data fear.
 
-Congrats on recently formalizing the family office entity. 
+Hi [First Name],
 
-I’m reaching out because when founders make this transition and start adding a second or third custodian, they usually hit a wall: they (or their spouse) end up spending their weekends manually reconciling bank PDFs into a master spreadsheet.
+One thing I didn't expect after launching: the reconciliation lands on you. Or your spouse. Every statement, matched by hand, usually on a weekend.
 
-You didn't build your wealth to become a part-time data entry clerk. 
+Canopy pulls your custodians into one view automatically — [hours saved per month — to verify] back across [# custodians supported — to verify].
 
-Canopy gives emerging family offices a single, automated view of their entire portfolio. We replace the messy spreadsheets with clean, professional reporting that you can confidently show to trustees and family members—without the institutional overkill.
+And before you ask the question I'd ask: your data stays protected — [security / data-handling detail — to verify].
 
-Are you open to a brief 15-minute chat next week to see how we can automate your reporting?
+Not a bigger system. Just the dreaded part of the month, gone.
 
-Best,
-[My Name]
+See it on your own portfolio — book 20 minutes: [link]
 
----
-
-### Email 2: Day 3
-**Subject:** Overkill vs. exactly what you need
-**Rationale:** Addressing their primary objection/fear directly (that a software platform will be too complex for their current setup).
-
-Hi {{First Name}},
-
-Following up on my last note. Often, when I speak with founders running a lean 1-3 person team, their biggest hesitation with software is that it will be a bloated, complex institutional system that takes months to learn.
-
-Canopy is built differently. We designed it to be intuitive. It sits quietly in the background, pulls the data from your 1-3 custodians, and outputs clean intelligence. No massive IT project, just your weekends back.
-
-Here’s a quick one-pager showing how we fit perfectly into a lean family office setup: [Link to HTML One-Pager]
-
-Do you have 10 minutes on Thursday to see if this aligns with your current setup?
-
-Best,
-[My Name]
+[Sender Name / Role / Company — to verify]
 
 ---
 
-### Email 3: Day 7
-**Subject:** Reporting for the family meeting
-**Rationale:** Pivoting to the emotional/social value of the product: looking professional in front of the family and building trust.
+### Email 3 — Day 7
 
-Hi {{First Name}},
+**Subject:** The report a family member actually asks for
+**Alt:** When a spreadsheet screenshot stops being enough
+**Why:** Sell status and defuse cost.
 
-One detail our founder clients often mention after switching to Canopy is the relief they feel before family meetings. 
+Hi [First Name],
 
-Instead of double-checking Excel formulas and apologizing for formatting, they hand over clear, institutional-grade reports. It builds immediate trust with family members and trustees that the new formal entity is being run professionally.
+At some point a family member or trustee asks for "proper reporting" — and a spreadsheet screenshot doesn't land. Canopy turns your numbers into clean reports that make you look as organised as you are.
 
-If you're hiring your first ops person soon, handing them Canopy instead of a massive Excel file will make them productive on day one.
+It's the same thing other single-family offices at your stage came to us for: [SFO peer proof — to verify].
 
-Worth a quick look?
+And on the "is this worth it" question — [pricing / starting cost — to verify].
 
-Best,
-[My Name]
+Here's a real sample: [sample report visual — to verify].
+
+Book a 20-minute demo: [link]
+
+[Sender Name / Role / Company — to verify]
 
 ---
 
-### Email 4: Day 14
-**Subject:** Closing the loop on portfolio reporting
-**Rationale:** The break-up email. Professional, leaving the door open, and acknowledging their fast decision-making cycle.
+### Email 4 — Day 12
 
-Hi {{First Name}},
+**Subject:** Closing the loop
+**Alt:** I'll stop here — but the door's open
+**Why:** Soft exit, door left open.
 
-I haven't heard back, so I'll assume you've got your reporting and reconciliation dialed in with your current spreadsheet setup for now. 
+Hi [First Name],
 
-If the manual data entry starts becoming a bottleneck as you add more custodians, feel free to reach out. We’re here when you’re ready to automate.
+I'll leave it here so I'm not cluttering your inbox.
 
-Wishing you the best with the new family office.
+If "is this overkill?" is still the hesitation — that's exactly the question the 20 minutes answers. No project, no overkill, just your portfolio in order.
 
-Best,
-[My Name]
+Door's open whenever: [link].
+
+[Sender Name / Role / Company — to verify]
