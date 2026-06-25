@@ -1,37 +1,49 @@
-# AI Prompt Log: Canopy BD Assessment
+1: You're now a marketing associate for a Growth/BD role at Canopy (canopy.cloud — wealth-tech, portfolio reporting for family offices & external asset managers). I'll paste the full brief below.
 
-This log documents the AI prompts and thought process used to generate the artifacts for the Canopy Growth & BD Assessment.
+Important rules from the brief: you must NOT invent any Canopy facts (clients, prices, numbers). If a fact isn't in the brief, flag it as "to verify" instead of making it up. Work only from what the brief gives us.
 
-### Initial Context & Setup
+Don't write any collateral yet. First, read everything, then give me a tight side-by-side strategy comparing the two ICPs — how they should differ on: tone, length, the main pain to lead with, the proof each needs, the CTA, and the email cadence.
 
-**Prompt 1 (Internal Thought Process / System Prompting):**
-> "I need to complete a BD assessment for Canopy. The goal is to create two HTML one-pagers and two markdown email sequences for two vastly different ICPs: ICP A (Emerging Single Family Office, fast decision, simple needs, spreadsheet pain) and ICP B (Institutional EAM, slow committee decision, scaling pain, compliance needs). I need to ensure the tone, length, pain points, and CTAs are completely distinct for each."
+Here's the brief: These are real Canopy market segments, lightly generalised. Use the detail to inform tone, pain, proof, length, and call to action. If you need a fact you cannot verify here, do not invent it - flag it in your process log as something you would confirm.
 
-### Generating Artifacts for ICP A (Emerging Single Family Office)
+ICP A
+Emerging Single Family Office
+Who A founder or principal who recently set up a formal family office, often a first-generation entrepreneur
+Team 1 to 5 people; founder plus an ops or admin hire
+Today Running the portfolio on spreadsheets; the founder or their spouse does reconciliation by hand
+Custodians 1 to 3 (one primary bank, maybe a couple more)
+Decision The founder decides alone. Fast - days to a couple of weeks
+Why they buy Replacing spreadsheets, saving personal time, and getting professional-looking reports they can put in front of family and trustees
+What scares them That a real platform is overkill and too complex for their fairly simple portfolio
+Buying signals Just registered a new FO entity; hiring a first ops person; adding a second or third custodian; a family member asking for "proper reporting"
+ICP B
+Institutional External Asset Manager
+Who An established EAM managing money for 50 to 500+ wealthy clients; 5 to 20+ staff with a dedicated ops team, portfolio managers, and compliance
+Today Reconciling across 5 to 15+ custodians by hand; ops takes days per custodian each month and is the bottleneck on growth
+Decision A committee. IT, compliance, and procurement all weigh in. Slow - many weeks to a few months
+Why they buy Scaling client count without adding ops headcount; eliminating reconciliation errors at volume; a client-facing reporting portal; audit trail and regulatory reporting
+What scares them A messy, months-long implementation; their main custodian not being supported; their internal tech team arguing to build it in-house
+Buying signals Hiring ops staff; running a vendor RFP; an audit finding on reporting accuracy; client complaints about late or wrong reports; a renewal with their current vendor approaching
+Notice the gap. One is a solo, fast, slightly anxious buyer spending their own money to get out of a spreadsheet. The other is a committee that needs proof, compliance comfort, and a believable rollout before anyone signs. Your two sets of artifacts should look and read like they were written for two different worlds. If they look similar, you have missed the point.
 
-**Prompt 2 (Creating the HTML One-Pager for ICP A):**
-> "Create a one-page sales collateral (HTML format) for ICP A: Emerging Single Family Office. 
-> Context: They are a founder/principal with a 1-5 person team. Currently using spreadsheets and manual reconciliation. They have 1-3 custodians. They make fast decisions. They buy to save personal time and get professional reports for family/trustees. They fear a real platform is overkill.
-> Requirements: The HTML must look intentional and clean. Use inline CSS. Tone should be peer-to-peer, empathetic to their time, and focused on simplicity. The CTA should be low-friction (e.g., a 15-minute chat). Address their fear of 'overkill' directly."
+2: Lock angles before drafting.
 
-**Prompt 3 (Creating the Email Sequence for ICP A):**
-> "Now write a 4-touch cold email sequence for ICP A (Emerging Single Family Office). Save as a markdown format.
-> Include the send cadence (e.g., Day 0, Day 3) and a one-line rationale for why each touch is designed this way.
-> Focus on the pain of weekend spreadsheet reconciliation, the professional look of the reports, and overcoming the fear of software bloat. Keep emails concise and respectful of a busy founder's time."
+ICP A: build the whole one pager around killing one fear : "a real platform is overkill for my simple portfolio." Founder to founder voice. give me headline, 3 section angles, exact call to action.
 
-### Generating Artifacts for ICP B (Institutional EAM)
+ICP B: structure as a dossier, one section per committee member ops (bottleneck math), compliance (audit trail/regulatory), IT (pre-empt "we'll build it"), procurement (believable rollout). Lead with ops. Give me headline, section angles and call to action. Use (placeholders - to verify) for any number/proof I don't have. Don't invent it .
 
-**Prompt 4 (Creating the HTML One-Pager for ICP B):**
-> "Create a one-page sales collateral (HTML format) for ICP B: Institutional External Asset Manager.
-> Context: They manage money for 50-500+ clients with a 5-20+ staff. Currently doing manual reconciliation across 5-15+ custodians, which is bottlenecking growth. Decision is made by a committee (IT, compliance, procurement). They buy to scale without adding ops headcount, eliminate errors, and get a client portal. They fear messy implementations and IT wanting to build it in-house.
-> Requirements: The HTML must look institutional, authoritative, and robust. Use inline CSS with a more corporate color scheme. The copy must address the committee (Ops, IT, Compliance). Focus on scale, risk mitigation, and seamless enterprise deployment. The CTA should be a 'Technical Capabilities Briefing'."
+3: Go with the worked example I want the ops logic visible so I could drop in real numbers in the future. Angles are now locked. Just build both one pagers as full standalone HTML, mobile friendly. A should feel warm and skimmable, like a note from a founder to another. B should read like a proper institutional dossier, clearly split by stakeholder. Keep all (to verify) placeholder showing in the copy and give me the two as separate files.
 
-**Prompt 5 (Creating the Email Sequence for ICP B):**
-> "Write a 4-touch cold email sequence for ICP B (Institutional EAM). Save as a markdown format.
-> Include the send cadence and a one-line rationale for each touch.
-> The target is the COO / Head of Operations. Focus on the operational bottleneck of 15+ custodians, the risk of audit findings, client demands for better reporting portals, and pre-empting the IT 'build vs. buy' objection. Tone must be institutional and authoritative."
+4: Lets write both email sequences now just follow the cadence we already worked out. let it follow the strategy we have discussed previously. Label each one with a day (Day 0, Day 3, Day 7 etc)
 
-### Final Review & Formatting
+5: Keep the cadence. Add one subject line alternate per email.
 
-**Prompt 6 (Internal Review):**
-> "Review the generated artifacts against the brief constraints. Are ICP A and ICP B genuinely different? Yes, ICP A focuses on personal time, simplicity, and fast 15-min demos. ICP B focuses on headcount scaling, audit trails, IT objections, and technical briefings. All files are in the correct formats (HTML and .md)."
+6: Two fixes to Sequence A. D7 says "Last one from me on this" but D12 still follows drop that line so it wont contradict the final touch. And for the D0 alt subject just rephrases "overkill" try to give another genuinely different angle instead. Leave everything else as is.
+
+7: Give me the full version of the Email sequence of both A and B.
+
+8: Now act as the receiver of the two sequence A B Email, will you be attracted and keep reading or be interested in trying canopy? if yes why? if No what should the email improve or amends?
+
+9: Base on your conclusions of the emails, list out suggestions could be utilized for further improvements. Pls also be reminded that do not invent any canopy datas or fact which haven't been mentioned by the brief, only use given datas or facts from the brief
+
+10: Apply all your suggestions and output the full revised A and B sequences, same cadence.Just don't fill in any [to verify] item Invent zero new Canopy facts.
